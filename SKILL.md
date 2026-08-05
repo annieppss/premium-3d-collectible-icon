@@ -35,6 +35,25 @@ No text, logo, watermark, UI elements, app tile, rounded-square background, scen
 - **Living creature or character:** Set `[LIVING-FEATURES]` to: `Add minimal cute facial features: small, simple eyes and a gentle friendly expression. Keep the anatomy and collectible-toy style intact.`
 - **Non-living object:** Set `[LIVING-FEATURES]` to: `Do not add eyes, a nose, mouth, or any anthropomorphic features. Preserve the original shape and identity of the object.`
 
+## Signature Summer Finish
+
+Apply this finish by default to create the compact, precious summer collectible look. It overrides the plain-white-background instruction only when the user has not explicitly requested a completely blank background.
+
+- Keep a single object compact and fully visible, usually 65–75% of the square canvas, with generous clean breathing room.
+- Use a luminous white-to-silver pearly ripple surface with subtle, low-contrast water caustics. Keep it seamless: no horizon, beach scene, or visible floor edge.
+- Use one large soft studio source from upper left. Add small clean highlights and a delicate reflection under the object; never use hard shadows, dark gray casts, or dramatic contrast.
+- Make smooth materials look touchable and valuable: rounded geometry, controlled gloss, crisp transparent edges, and small restrained specular highlights. Avoid photoreal texture, excessive detail, and oversized product-shot cropping.
+
+## Beer Mug Preset
+
+Apply this preset when the request is beer, a cold beer, a beer mug, or a closely related phrase.
+
+- Use exactly one compact, rounded clear beer mug with a small rounded handle. Keep it at 65–70% of the square canvas, never an oversized close-up.
+- Fill it with clear amber-golden beer and top it with a chunky, creamy-white, softly billowing foam cap. Add one small rounded foam drip over the front rim.
+- Make the mug thick, polished transparent acrylic or glass. Make the foam smooth soft resin/PVC-like rather than realistic bubbly foam.
+- Do not add condensation droplets, excessive bubbles, labels, logos, text, or photoreal liquid effects.
+- Apply the Signature Summer Finish, including its silver ripple surface and upper-left soft studio reflections.
+
 ## Puppy in Swim Tube Preset
 
 Apply this preset when the request is a puppy or dog riding in a swim tube. Keep the pose, camera, and material rules stable; treat the breed and colors as user-controlled variables.

@@ -54,6 +54,18 @@ Apply this preset when the request is beer, a cold beer, a beer mug, or a closel
 - Do not add condensation droplets, excessive bubbles, labels, logos, text, or photoreal liquid effects.
 - Apply the Signature Summer Finish, including its silver ripple surface and upper-left soft studio reflections.
 
+## Patbingsu Preset
+
+Apply this preset when the request is patbingsu or Korean red-bean shaved ice.
+
+- Use one compact clear rounded bowl with a low, wide shaved-ice mound.
+- Make the shaved ice from many tiny irregular translucent white flakes and granules. Never use identical spheres, capsules, pillows, or balloon-like puffs.
+- Add a loose coral-pink syrup layer with uneven translucent pieces and soft pooled patches. Never use a thick round jelly sheet.
+- Use glossy dark-red beans with small asymmetric oval kidney-bean shapes, subtle size variation, natural clustering, and a light lengthwise bean crease. Never use perfectly round spheres or uniform rows.
+- Add one modest creamy pale-yellow vanilla scoop with a gently melting lower edge.
+- Keep the bowl clear acrylic and use restrained collectible gloss. Apply the Signature Summer Finish, including its silver ripple surface and upper-left soft studio light.
+- Do not use real crushed ice, wet photoreal food, glass shards, puffy balloon forms, oversized ingredients, spoons, garnish, labels, or text.
+
 ## Puppy in Swim Tube Preset
 
 Apply this preset when the request is a puppy or dog riding in a swim tube. Keep the pose, camera, and material rules stable; treat the breed and colors as user-controlled variables.

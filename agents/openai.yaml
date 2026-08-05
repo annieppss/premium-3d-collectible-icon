@@ -1,0 +1,4 @@
+interface:
+  display_name: "Premium 3D Collectible Icon"
+  short_description: "Create polished 3D collectible object icons"
+  default_prompt: "Use $premium-3d-collectible-icon to create a cute 3D collectible icon of a sea turtle."

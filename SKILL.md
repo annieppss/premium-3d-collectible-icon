@@ -46,6 +46,17 @@ Apply this preset when the request is a puppy or dog riding in a swim tube. Keep
 - Use a transparent, visibly inflated glossy PVC swim tube. Use the requested tube color; otherwise use transparent sky blue. Keep the tube transparent even when its color changes.
 - Preserve the square, centered, premium collectible composition and soft studio lighting from the main prompt.
 
+## Pearl Shell Preset
+
+Apply this preset when the request is a pearl inside an open shell, a pearl shell, or a closely related phrase.
+
+- Use one open scallop shell containing exactly one pearl. Keep the shell non-anthropomorphic: no face or extra decorations.
+- Make the shell from translucent pearlescent resin or pearlescent PVC. Use an ivory, blush-pink, and lavender gradient unless the user requests different colors.
+- Add a delicate aurora iridescence only along the shell edges; keep it refined and subtle.
+- Give the shell interior and creamy-white pearl soft diffused illumination plus small, clean specular highlights, producing an elegant gentle inner glow rather than a strong light source.
+- Do not use metallic surfaces, rough textures, excessive glitter, or strong neon emission.
+- Preserve the square, centered, premium collectible composition and soft upper-left studio highlights from the main prompt.
+
 ## Material Selection
 
 Choose one primary material that naturally fits the concept. Examples: an inflatable swim ring → glossy PVC; a jellyfish → transparent aqua acrylic; a strawberry → soft resin; a beach umbrella → smooth ABS with fabric canopy; a seashell → pearlescent resin; sunglasses → translucent acrylic and chrome.

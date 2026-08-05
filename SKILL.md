@@ -35,6 +35,17 @@ No text, logo, watermark, UI elements, app tile, rounded-square background, scen
 - **Living creature or character:** Set `[LIVING-FEATURES]` to: `Add minimal cute facial features: small, simple eyes and a gentle friendly expression. Keep the anatomy and collectible-toy style intact.`
 - **Non-living object:** Set `[LIVING-FEATURES]` to: `Do not add eyes, a nose, mouth, or any anthropomorphic features. Preserve the original shape and identity of the object.`
 
+## Puppy in Swim Tube Preset
+
+Apply this preset when the request is a puppy or dog riding in a swim tube. Keep the pose, camera, and material rules stable; treat the breed and colors as user-controlled variables.
+
+- Use the requested dog breed; if none is named, choose a cute puppy breed. Render it as smooth, seamless soft vinyl or resin with no fur, hair, or realistic animal texture.
+- Seat the puppy inside the tube's center opening, not on top of it. Rest its rounded front paws on the top edge. Keep its short rounded hind paws naturally visible inside the front opening; do not place legs below the tube or push the paw pads toward the camera.
+- Give it tiny simple dark eyes, a small nose, a happy smile, and a small pink tongue slightly showing. Preserve a front-facing, centered pose unless the user explicitly requests another pose.
+- Include a simple two-piece bikini by default. Use the requested bikini color; otherwise use hot pink. Change the bikini color freely without changing its simple toy-like form.
+- Use a transparent, visibly inflated glossy PVC swim tube. Use the requested tube color; otherwise use transparent sky blue. Keep the tube transparent even when its color changes.
+- Preserve the square, centered, premium collectible composition and soft studio lighting from the main prompt.
+
 ## Material Selection
 
 Choose one primary material that naturally fits the concept. Examples: an inflatable swim ring → glossy PVC; a jellyfish → transparent aqua acrylic; a strawberry → soft resin; a beach umbrella → smooth ABS with fabric canopy; a seashell → pearlescent resin; sunglasses → translucent acrylic and chrome.

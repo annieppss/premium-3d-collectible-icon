@@ -44,6 +44,23 @@ Apply this finish by default to create the compact, precious summer collectible 
 - Use one large soft studio source from upper left. Add small clean highlights and a delicate reflection under the object; never use hard shadows, dark gray casts, or dramatic contrast.
 - Make smooth materials look touchable and valuable: rounded geometry, controlled gloss, crisp transparent edges, and small restrained specular highlights. Avoid photoreal texture, excessive detail, and oversized product-shot cropping.
 
+## Inflated PVC Material Finish
+
+Use this as the default material language for collectible figures, clothing, parasols, loungers, and other forms that can plausibly be soft or air-filled. Keep technically transparent objects such as glass bowls, mugs, and lenses as clear acrylic/glass, but retain the same polished collectible finish.
+
+- Make forms look softly air-filled and gently inflated: smooth bulging volumes, broad clean white highlights, subtle translucent depth, and slight compression at natural contact points.
+- Add restrained heat-sealed seam cues only where construction naturally requires them. Keep every surface pristine, premium, and soft—not hard resin, ceramic, matte plastic, fabric, latex, or cheap pool-float plastic.
+- Use a high-gloss clear-coated PVC appearance with curved reflections, never a dry, chalky, matte, rough, or photoreal-textured surface.
+- Preserve the object's recognizable structure. Do not overinflate small food components, beans, ice flakes, glassware, or details whose natural form should remain irregular.
+
+## Multiple Puppy Variation
+
+Apply this rule when a scene contains two or more puppies.
+
+- Give each puppy a distinct expression, pose, and clothing design; never mirror the same face, pose, or outfit.
+- When swimwear is requested, vary the styles automatically: use simple swim shorts on one puppy and a frilled two-piece bikini or monokini on another. Apply different user-requested colors when supplied.
+- Keep all puppies wholesome, baby-puppy proportioned, smooth soft-PVC figurines with no fur texture or adult-like anatomy.
+
 ## Beer Mug Preset
 
 Apply this preset when the request is beer, a cold beer, a beer mug, or a closely related phrase.
